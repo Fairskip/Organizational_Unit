@@ -5,6 +5,7 @@
 - Barre du titre de la console > Outil > [Utilisateurs et ordinateurs Active Directory](https://github.com/Fairskip/Organizational_Unit/blob/main/Users%20%26%20Hosts%20AD%201.png) 
 - Clic droit sur le serveur > [Utilisateurs et ordinateurs Active Directory](https://github.com/Fairskip/Organizational_Unit/blob/main/Users%20%26%20Hosts%20AD%202.png) 
 
+<br>
   
 ## 2. Utilisateurs et ordinateurs Active Directory 
 
@@ -30,20 +31,14 @@
 
 ### 3 - Création d'un User  
 
-- Cliquer sur l'icone Nouveau groupe situé sur la barre des taches
-- Remplir le formulaire. Suivant.
-- Donner un mot de passe long et compliqué. Choisir les options désirés. Suivant.
+- Cliquer sur l'[icone Nouveau groupe situé sur la barre des taches](https://github.com/Fairskip/Organizational_Unit/blob/main/User%201.png)  
+- Remplir le [formulaire](https://github.com/Fairskip/Organizational_Unit/blob/main/User%202_mdp_%40zerty1234.png)  . Suivant.
+- Donner un [mot de passe long et compliqué](https://github.com/Fairskip/Organizational_Unit/blob/main/User%203.png)    . Choisir les options désirés. Suivant.
 - Terminer
-
-![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%201.png)  
-
-![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%202_mdp_%40zerty1234.png)  
-
-![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%203.png)    
 
 ![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%204.png)  
 
-
+<br>
 
 ### 4 - Ajouter un user au groupe Students  
 
