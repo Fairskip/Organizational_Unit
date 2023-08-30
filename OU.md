@@ -39,7 +39,18 @@
 
 ![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%202_mdp_%40zerty1234.png)  
 
-![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%203.png)  
+![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%203.png)    
 
 ![user](https://github.com/Fairskip/Organizational_Unit/blob/main/User%204.png)  
+
+
+
+### 4 - Ajouter un user au groupe Students  
+
+- Double clic sur le groupe
+- Général > membres => Ajouter
+- Entrez les noms des objets à selectionner => entrer la première lettre de l'user, cliquer sur verifier les noms. Le nom de l'user s'affichera de lui-même.
+- Ok
+
+![user into group](https://github.com/Fairskip/Organizational_Unit/blob/main/OU_ajouter%20un%20user%20%C3%A0%20un%20groupe.png)
 
