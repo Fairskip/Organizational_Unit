@@ -49,3 +49,27 @@
 
 ![user into group](https://github.com/Fairskip/Organizational_Unit/blob/main/OU_ajouter%20un%20user%20%C3%A0%20un%20groupe.png)
 
+<br>
+
+# 5 - Tester l'accès d'un user récemment créé sur un PC Host pour une première utilisation.  
+
+Si le PC a bien rejoint le domaine Wilder :   
+
+![test1](https://github.com/Fairskip/Organizational_Unit/blob/main/User%20Test%201.png)
+
+* Cliquer sur Autre utilisateur.
+* Entrer l'ID du login donné par l'administrateur (aka moi). Ne pas oublier de mettre le nom du domaine avant l'ID suivit d'un anti-slash.
+* Entrer le mot de passe donné par l'administrateur
+
+  ![test2](https://github.com/Fairskip/Organizational_Unit/blob/main/User%20test%202.png)
+
+  * L'ID est valide. Toutefois avant la première connexion, il faut changer le mot de passe.
+ 
+![test3](https://github.com/Fairskip/Organizational_Unit/blob/main/User%20test%203.png)
+
+  * Mettre l'ancien mot de passe compliqué, inscrire le nouveau mot de passe tout aussi compliqué et le confirmer en y réécrivant le dite nouveau mot de passe.
+  * Valider.
+
+![test4](https://github.com/Fairskip/Organizational_Unit/blob/main/User%20test%204.png)  
+
+* Il est possible maintenant de se logger avec son nouveau mot de passe.
